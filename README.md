@@ -1,8 +1,20 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
+# Ejemplo de examen POO
+Este es un ejemplo de como será el examen de POO, usando python y evaluado con pytest
 
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+### El ejercicio
+Desarrolle una clase llamada PruebaExamen, dentro del archivo PruebaExamen.py
+debe tener los siguientes atributos
+
++nombre
+-apellido
+
+y los siguientes métodos
+
+__init__ que recibe nombre y apellido como parámetros 
+
+getApellido que retorna el apellido
+
+__str__ que retorna el nombre completo concatenado
 
 ### Setup command
 `sudo -H pip3 install pytest`
