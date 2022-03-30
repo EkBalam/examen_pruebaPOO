@@ -10,11 +10,11 @@ debe tener los siguientes atributos
 
 y los siguientes métodos
 
-__init__ que recibe nombre y apellido como parámetros 
+\_\_init\_\_ que recibe nombre y apellido como parámetros 
 
 getApellido que retorna el apellido
 
-__str__ que retorna el nombre completo concatenado
+\_\_str\_\_ que retorna el nombre completo concatenado
 
 PD> CUIDE QUE LOS NOMBRES DE LAS CLASES, METODOs, ATRIBUTOS Y ARCHIVOS SEAN TAL CUAL SE INSTRUYEN
 
