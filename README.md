@@ -16,6 +16,8 @@ getApellido que retorna el apellido
 
 __str__ que retorna el nombre completo concatenado
 
+PD> CUIDE QUE LOS NOMBRES DE LAS CLASES, METODOs, ATRIBUTOS Y ARCHIVOS SEAN TAL CUAL SE INSTRUYEN
+
 ### Setup command
 `sudo -H pip3 install pytest`
 
